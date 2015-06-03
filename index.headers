@@ -1,0 +1,5 @@
+HTTP/1.1 200 OK
+    Content-Type: img/jpeg; charset=utf-8
+    Connection: keep-alive
+
+
